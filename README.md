@@ -145,10 +145,6 @@ Consultant en Data Analytics & Business Intelligence
 
 **Projet Portfolio** - Démonstration d'expertise en analyse de données métier et transformation digitale des centres de service client.
 
-## 📄 Statut
-
-✅ **Projet Complété** - Prêt pour déploiement opérationnel
-
 ---
 
 *Note : Cette analyse a été réalisée avec Tableau Online. Les méthodologies et insights présentés sont directement applicables en environnement professionnel pour l'optimisation des performances de centres d'appel. Les données proviennent de sources publiques Kaggle, garantissant la conformité légale.*
